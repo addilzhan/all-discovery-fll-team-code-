@@ -1,5 +1,6 @@
 #include <GyverNTC.h>
 //АДИЛЬ ЧОРТ
+//ОРГИЯ ДИСКАВЕРИ
 
 #define TdsSensorPin A0
 #define VREF 5.0
